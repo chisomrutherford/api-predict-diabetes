@@ -2,3 +2,4 @@ tensorflow
 joblib
 numpy
 pandas
+fastapi
