@@ -1,6 +1,5 @@
 from tensorflow import keras
 
-# Replace the problematic imports
 Sequential = keras.Sequential
 Dense = keras.layers.Dense
 
